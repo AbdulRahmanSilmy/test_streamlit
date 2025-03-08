@@ -2,7 +2,6 @@ import streamlit as st
 import requests
 import pandas as pd
 from datetime import datetime, timezone
-from streamlit_autorefresh import st_autorefresh
 import matplotlib.pyplot as plt
 import time 
 import numpy as np
